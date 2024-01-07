@@ -20,7 +20,7 @@ The subsequent phase involves provisioning an Auto Scaling Group (ASG) instead o
 ### For detailed instructions and to execute this project, you can refer to Adrian Cantrill's comprehensive video guide and text instructions available on [GitHub](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-elastic-wordpress-evolution). Follow his step-by-step instructions to experience the full functionality of the web application.
 
 
-## Web Application Evolutuion: Badminton Court Upgrade Project Reference.
+## Putting the Web Application Evolution into perspective using a Badminton Court Upgrade Project
 
 Imagine upgrading your badminton setup from playing on a single court to a more advanced and efficient arrangement. This helps you handle more players, reduce waiting times, and overall enhance the game experience. It's like leveling up your game strategy to adapt to different player demands, ensuring everyone can enjoy a seamless badminton session.
 
